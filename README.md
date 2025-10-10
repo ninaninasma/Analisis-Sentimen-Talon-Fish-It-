@@ -12,13 +12,14 @@ Proyek ini bertujuan untuk melakukan analisis sentimen terhadap cuitan (tweet) d
 
 * Dataset dikumpulkan dari Twitter dengan kata kunci yang berkaitan dengan **Talon**.
 * Data berupa teks mentah (tweet) beserta metadata standar (id, waktu, dsb.).
-* Link Scraping Collab: 
+* Data tersimpan sebagai **data.csv**
 
 ### 2. Pembersihan Data (Case Folding)
 
 * Menghapus URL, hashtag, mention, angka, dan karakter khusus.
 * Normalisasi teks (lowercase).
 * Tokenisasi kata.
+* Data tersimpan sebagai **data_casefolding**
 
 ### 3. Persiapan Lexicon
 
