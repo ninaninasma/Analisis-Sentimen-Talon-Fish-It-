@@ -1,16 +1,16 @@
 # 5220411370 | NINA KHARISMA
 
-# Analisis Sentimen Twitter Talon (Co-Owner Fish It) dengan InSet Lexicon
+# Analisis Sentimen Twitter tentang Fish It Game Roblox dengan InSet Lexicon
 
 ## Deskripsi Proyek
 
-Proyek ini bertujuan untuk melakukan analisis sentimen terhadap cuitan (tweet) dari Twitter yang berkaitan dengan **Talon yaitu Co-Owner Fish It**. Proses analisis menggunakan pendekatan **lexicon-based sentiment analysis** dengan memanfaatkan **InSet Lexicon** (Indonesian Sentiment Lexicon).
+Proyek ini bertujuan untuk melakukan analisis sentimen terhadap cuitan (tweet) dari Twitter yang berkaitan dengan **Fish It** salah satu map dari **Roblox**. Proses analisis menggunakan pendekatan **lexicon-based sentiment analysis** dengan memanfaatkan **InSet Lexicon** (Indonesian Sentiment Lexicon).
 
 ## Tahapan Proses
 
 ### 1. Pengumpulan Data
 
-* Dataset dikumpulkan dari Twitter dengan kata kunci yang berkaitan dengan **Talon**.
+* Dataset dikumpulkan dari Twitter dengan kata kunci yang berkaitan dengan **Fish It**.
 * Data berupa teks mentah (tweet) beserta metadata standar (id, waktu, dsb.).
 * Data tersimpan sebagai **data.csv**
 
